@@ -9,7 +9,7 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://rzdpai.top/""><code><img height="20" width="50" src="./images/juejin.png"></code></a>：我的个人主页
+-   <a href="https://rzdpai.top/"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：我的个人主页
 
 ### **技术栈:**
 
@@ -26,7 +26,7 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Rzdpai/MKSF-Shader)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RzdPai&repo=MKSF-Shader)](https://github.com/Rzdpai/MKSF-Shader)
 <br><br><br>
 
 ### Github 活跃度
