@@ -9,7 +9,7 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://rzdpai.top/"><code><img height="20" src="./images/rzdpai.png"></code></a>：主页<a href="https://blog.rzdpai.top/"><code><img height="20" src="./images/blog.png"></code></a>：博客<a href="https://xcloud1-2xgbwprs.b4a.run/"><code><img height="20" src="./images/AList.png"></code></a>：云盘<a href="https://shop.rzdpai.top/"><code><img height="20" src="./images/shop.png"></code></a>：小店
+-   <a href="https://rzdpai.top/"><code><img height="20" src="./images/rzdpai.png"></code></a>：主页<a href="https://blog.rzdpai.top/"><code><img height="20" src="./images/blog.png"></code></a>：博客<a href="https://pan.rzdpai.top"><code><img height="20" src="./images/AList.png"></code></a>：云盘<a href="https://shop.rzdpai.top/"><code><img height="20" src="./images/shop.png"></code></a>：小店
 
 ### **技术栈:**
 
